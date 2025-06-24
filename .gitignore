@@ -193,3 +193,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 sentiment_model.keras
+IMDB Dataset.csv
